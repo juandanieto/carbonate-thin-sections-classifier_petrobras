@@ -2,8 +2,6 @@
 
 ### HACKATHON : AI FOR OIL & GAS
 
-#### Team: **Rock the Net**
-
 **Members:**
 
 * Matheus do Ó
